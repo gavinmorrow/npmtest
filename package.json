@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gavinmorrow/npmtest/issues"
   },
-  "homepage": "https://github.com/gavinmorrow/npmtest#readme"
+  "homepage": "https://github.com/gavinmorrow/npmtest#readme",
+  "publishConfig": {
+   "@gavinmorrow:registry": "https://npm.pkg.github.com"
+ }
 }
